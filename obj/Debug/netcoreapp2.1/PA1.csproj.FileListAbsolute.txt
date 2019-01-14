@@ -1,0 +1,11 @@
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/bin/Debug/netcoreapp2.1/PA1.deps.json
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/bin/Debug/netcoreapp2.1/PA1.runtimeconfig.json
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/bin/Debug/netcoreapp2.1/PA1.runtimeconfig.dev.json
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/bin/Debug/netcoreapp2.1/PA1.dll
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/bin/Debug/netcoreapp2.1/PA1.pdb
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/obj/Debug/netcoreapp2.1/PA1.csprojAssemblyReference.cache
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/obj/Debug/netcoreapp2.1/PA1.csproj.CoreCompileInputs.cache
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/obj/Debug/netcoreapp2.1/PA1.AssemblyInfoInputs.cache
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/obj/Debug/netcoreapp2.1/PA1.AssemblyInfo.cs
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/obj/Debug/netcoreapp2.1/PA1.dll
+/Users/Faraz/Documents/Waterloo/1A/BME 121 - Digital Computation/Programming Assignments/PA1/obj/Debug/netcoreapp2.1/PA1.pdb
